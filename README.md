@@ -116,4 +116,4 @@ Regenerate autoloader optimized
 ```
 composer genautoload
 ```
-  
+
