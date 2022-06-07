@@ -1,0 +1,23 @@
+{
+    "gears": [
+        {
+            "id": "A",
+            "teeth": 8,
+            "torque": 20,
+            "speed": 150
+        },
+        {
+            "id": "B",
+            "teeth": 10
+        },
+        {
+            "id": "C",
+            "teeth": 20,
+            "composed": true
+        },
+        {
+            "id": "D",
+            "teeth": 8
+        }
+    ]
+}
