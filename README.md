@@ -20,7 +20,7 @@ Composed by
 
 ![4gears](doc/assets/img/4gears.png)
 
-Check use case [parameters file](tests/fixtures/Entity/Gears4.json).  
+Check use case [parameters file](tests/fixtures/Entity/Gears4distinct.json).  
 
 Input
 
@@ -44,7 +44,7 @@ Output
 
 ![4gears_composed](doc/assets/img/4gears_composed.png)  
 
-Check use case [parameters file](tests/fixtures/Entity/Gears4wBCComposed.json).  
+Check use case [parameters file](tests/fixtures/Entity/Gears4composed.json).  
 
 Input
 
