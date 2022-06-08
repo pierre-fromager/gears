@@ -3,6 +3,10 @@
 Calculate torques, speeds, direction for each items of a gear system.  
 Watch youtube [explainations](https://www.youtube.com/watch?v=JMdPXTXIPWU).
 
+[![TravsisBadgeBuild](https://api.travis-ci.com/pierre-fromager/gears.svg?branch=master)](https://travis-ci.com/pierre-fromager/gears)
+[![CoverageCi](https://scrutinizer-ci.com/g/pierre-fromager/gears/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/pierre-fromager/gears/)
+[![ScrutinizerCq](https://scrutinizer-ci.com/g/pierre-fromager/gears/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/pierre-fromager/gears/)
+
 ## Gear
 
 Composed by
