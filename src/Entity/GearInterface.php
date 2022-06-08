@@ -6,7 +6,7 @@ namespace PierInfor\Gears\Entity;
 
 /**
  * Gear contract for Gear class
- * 
+ *
  * @author      Pierre Fromager <info@pier-infor.fr>
  * @version     1.0
  * @copyright   GNU Public License.

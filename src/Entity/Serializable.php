@@ -4,7 +4,7 @@ namespace PierInfor\Gears\Entity;
 
 /**
  * Entity manager for json marshalling unmarshalling
- * 
+ *
  */
 class Serializable
 {

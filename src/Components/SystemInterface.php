@@ -8,7 +8,7 @@ use PierInfor\Gears\Entity\Gears;
 
 /**
  * System contract for System class
- * 
+ *
  * @author      Pierre Fromager <info@pier-infor.fr>
  * @version     1.0
  * @copyright   GNU Public License.

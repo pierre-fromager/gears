@@ -9,7 +9,7 @@ use PierInfor\Gears\Entity\Gear;
 
 /**
  * System calculate system of gears
- * 
+ *
  */
 class System implements SystemInterface
 {

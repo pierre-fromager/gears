@@ -8,7 +8,7 @@ use PierInfor\Gears\Entity\GearInterface;
 
 /**
  * Gear entity accessors
- * 
+ *
  */
 class Gear extends Serializable implements \JsonSerializable, GearInterface
 {
