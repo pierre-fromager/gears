@@ -1,8 +1,8 @@
 {
     "name": "pier-infor/gears",
-    "description": "Pier-Infor Gears",
-    "type": "project",
-    "license": "GNU GPL 3",
+    "description": "Gears system solver",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "PierInfor\\Gears\\": "src/"
@@ -22,7 +22,7 @@
     "authors": [
         {
             "name": "Pierre Fromager",
-            "email": "info@pier-infor.fr"
+            "email": "pf@pier-infor.fr"
         }
     ],
     "require": {
